@@ -1,4 +1,5 @@
-### Olá 👋
+<h1 align="center"> Olá 👋, meu nome é André</h1>
+<h3 align="center">Desenvolvedor Full Stack ReactJS e Node</h3>
 
 
 
